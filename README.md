@@ -85,5 +85,5 @@ lanis1/
 
 ## 다운로드
 
-- 최신 릴리즈: [다운로드 ZIP](https://github.com/taesan1/lanis1/releases/download/v1.0/lanis1.zip)
+- 최신 릴리즈: [다운로드 ZIP](https://github.com/taesan1/lanis1/releases/download/v1.0/Lanis.notification.zip)
 - GitHub 저장소: [https://github.com/taesan1/lanis1](https://github.com/taesan1/lanis1)
