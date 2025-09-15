@@ -1,8 +1,7 @@
-/* 기존 #lanis-ui 스타일 그대로 사용 */
 #lanis-ui {
     position: fixed;
-    bottom: 20px;
-    left: 20px;
+    bottom: 40px;
+    left: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,7 +11,7 @@
 #lanis-ui button {
     width: 60px;
     height: 60px;
-    margin: 5px 0;
+    margin: 8px 0;
     border-radius: 50%;
     border: none;
     font-size: 14px;
@@ -30,6 +29,7 @@
     opacity: 0;
     transform: translateY(20px);
     pointer-events: none;
+    transition: all 0.3s ease;
 }
 
 .sub-btn.active {
@@ -48,7 +48,8 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     padding: 20px;
     z-index: 10000;
-    width: 300px;
+    width: 90%;
+    max-width: 300px;
     transition: transform 0.3s ease;
 }
 
