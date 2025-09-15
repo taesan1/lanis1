@@ -39,8 +39,8 @@ Lanis 웹 페이지에서 사용자 경험을 향상시키기 위해 만든 **Ch
 3. 우측 상단 **개발자 모드** 활성화
 4. **압축해제된 확장 프로그램을 로드합니다** 클릭 → 프로젝트 폴더 선택
 
-### 2. 모바일(Android, Mises Browser)
-1. Mises 브라우저 다운로드
+### 2. 모바일(Android, )
+1. 키위브라우저 접속. [링크이동](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ko&pli=1)
 2. 하단 바 퍼즐 아이콘 클릭 → 확장 프로그램 선택
 3. 개발자 모드 활성화 → `+` 버튼으로 zip 파일 불러오기
 
