@@ -60,14 +60,14 @@ Lanis 웹 페이지에서 사용자 경험을 향상시키기 위해 만든 **Ch
     - 메시지 내용 수정 후 **저장** 버튼 클릭 → 바로 적용
 
 4. **메시지 예시**
-    - 기본 긴급 메시지: `[긴급] 사용자: 즉시 대응 필요 - {time}`
-    - 기본 주의 메시지: `[주의] 사용자: 주의 상황 발생 - {time}`
+    - 기본 긴급 메시지: `[긴급] @evaryone 즉시 대응 필요 - {time}`
+    - 기본 주의 메시지: `[주의] @here: 주의 상황 발생 - {time}`
 
 ---
 
 ## 코드 구조
 
-lanis-helper/
+lanis1/
 ├─ manifest.json # 확장 프로그램 설정
 ├─ content.js # UI 생성 및 Webhook 전송 스크립트
 ├─ style.css # 버튼 및 모달 스타일
@@ -83,6 +83,7 @@ lanis-helper/
 
 ---
 
-## 개발자 정보
-- GitHub 저장소: [https://ghttps://github.com/taesan1/lanis1](https://ghttps://github.com/taesan1/lanis1)
-- 최신 릴리즈: v1.0
+## 다운로드
+
+- 최신 릴리즈: [다운로드 ZIP](https://github.com/taesan1/lanis1/releases/download/v1.0/lanis-helper.zip)
+- GitHub 저장소: [https://github.com/taesan1/lanis1](https://github.com/taesan1/lanis1)
