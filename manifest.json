@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Lanis UI",
+  "name": "Lanis Helper UI",
   "version": "1.0",
   "description": "Lanis 웹에서 UI를 추가하여 호출 버튼과 설정 버튼 제공",
   "permissions": ["activeTab", "scripting"],
