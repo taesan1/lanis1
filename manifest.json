@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Lanis UI",
+  "version": "1.0",
+  "description": "Lanis 웹에서 UI를 추가하여 호출 버튼과 설정 버튼 제공",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://lanis.me/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://lanis.me/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}
