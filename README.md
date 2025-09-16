@@ -1,4 +1,4 @@
-# Lanis Notification
+# Lanis Notification (코스모스용) 
 
 Lanis 웹 페이지에서 사용자 경험을 향상시키기 위해 만든 **Chrome 확장 프로그램**입니다.  
 모바일 브라우저 환경에서도 작동하도록 최적화되어 있으며, **긴급/주의 메시지 전송 기능**과 **설정 모달 UI**를 제공합니다.
@@ -33,17 +33,19 @@ Lanis 웹 페이지에서 사용자 경험을 향상시키기 위해 만든 **Ch
 
 ## 설치 방법
 
+### 0. 아래 zip파일 다운로드 
+1. 최신 릴리즈: [다운로드 ZIP](https://github.com/taesan1/lanis1/releases/download/v1.0/Lanis.notification.zip)
+ 
 ### 1. PC(Chrome 브라우저)
 1. 최신 릴리즈 zip 파일 다운로드 후 압축 해제
 2. Chrome 브라우저에서 `chrome://extensions/` 접속
 3. 우측 상단 **개발자 모드** 활성화
 4. **압축해제된 확장 프로그램을 로드합니다** 클릭 → 프로젝트 폴더 선택
 
-### 2. 모바일(Android, )
+### 2. 모바일(Android, ) 또는 구글 확장프로그램이 지원되는 브라우저 
 1. 키위브라우저 접속. [링크이동](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ko&pli=1)
 2. 하단 바 퍼즐 아이콘 클릭 → 확장 프로그램 선택
 3. 개발자 모드 활성화 → `+` 버튼으로 zip 파일 불러오기
-
 ---
 
 ## 사용 방법
